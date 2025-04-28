@@ -9,13 +9,11 @@ Write a C program to convert a 23.65 into 25 using pointer
 4.	Print the modified value.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/23c986be-5910-4d90-8834-e683f9de112a)
 
 ## OUTPUT:
- 	
 
-
-
-
+ ![image](https://github.com/user-attachments/assets/34324488-eeb1-4444-8b90-0b26f744b27a)
 
 
 
@@ -45,7 +43,11 @@ Write a C program to calculate the Product of first 12 natural numbers using Rec
 6.	Print the result, indicating it is the product of the first 12 natural numbers.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/3c2b4248-cd58-4d09-8982-d8e39547a90c)
+
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/10c99da4-8dee-4314-9e33-a6742945cc34)
+
          		
 ## RESULT:
 
@@ -68,11 +70,13 @@ Write C Program to find Sum of each row of a Matrix
 4.	Print the sum for each row.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/7431fa69-dd59-413f-9782-8ac469318c5e)
 
 
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/460f2b5e-8876-4bd1-b5e3-a6090b8c744e)
 
  
  
@@ -96,11 +100,13 @@ Write C program for the below pyramid string pattern. Enter a string: PROGRAM En
 5.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/639bc9e7-de46-406f-9f6b-1591732abc80)
 
 
  ## OUTPUT
 
- 
+ ![image](https://github.com/user-attachments/assets/c14cd6a1-9871-49f5-81b2-88b2bf55ab74)
+
 
 ## RESULT
 
@@ -132,13 +138,13 @@ Step 5: Loop from i = 0 to i < n:
 Step 6: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/15afc4de-b315-4ecb-9ffe-95021fa94a93)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/614b5d24-fbf4-4d83-82f4-8fdcdfdad20d)
 
  
 
 ## RESULT
 
 Thus the C program to read and display an array of any 6 integer elements using pointer has been executed
-
-
